@@ -1,0 +1,110 @@
+.navbar {
+  background-color: hsl(217.21deg 62.68% 2.69%);
+}
+
+.modal-content {
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: hsla(220, 60%, 3%, 0.849);
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-body {
+  font-family: 'Inter', sans-serif;
+}
+
+#productModal > div > div {
+  box-shadow: 0 4px 8px hsl(0deg 56.3% 46.67% / 30%)!important; 
+}
+
+#productModal > div > div {
+  transition: transform 0.5s ease-in-out;
+}
+
+#modalPrice,
+#modalUserCount,
+#modalProductName {
+  color: #ba3434b3 !important;
+}
+
+#modalScreenshots img {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+#modalScreenshots img:hover {
+  transform: scale(1.1);
+}
+
+body {
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: hsl(217.21deg 62.68% 2.69%);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.bg-dark {
+  --bs-bg-opacity: 1;
+  background-color: hsl(217.21deg 62.68% 2.69%) !important;
+}
+
+.btn-custom:hover {
+  border-color: transparent;
+  color: var(--bs-primary);
+}
+
+.btn-custom:active {
+  border-color: var(--bs-border-color-translucent) !important;
+}
+
+body > section.py-5 > div > div.row.row-cols-1.row-cols-md-2.mx-auto > div {
+  transition: transform 0.5s ease-in-out;
+}
+
+body > section.py-5 > div > div.row.row-cols-1.row-cols-md-2.mx-auto > div:hover {
+  transform: scale(1.05);
+}
+
+.btn-custom2 {
+  background-color: #ba3434;
+  border-color: #ba3434;
+}
+
+.btn-custom2:hover {
+  background-color: #ba3434b3;
+  border-color: #ba3434b3;
+}
+
+body > section:nth-child(2) > div > div.container.h-100 > div > div > div > a.btn.btn-lg.btn-custom {
+  color: #ba3434;
+}
+
+body > section:nth-child(2) > div > div.container.h-100 > div > div > div > a.btn.btn-lg.btn-custom:hover {
+  color: #ba3434b3;
+}
+
+.bg-primary {
+  --bs-bg-opacity: 1;
+  background-color: #ba3434b3 !important;
+}
+
+body > section.py-5 > div > div.row.row-cols-1.row-cols-md-2.mx-auto > div > div > a > img {
+  box-shadow: 0 4px 8px hsl(0deg 56.3% 46.67% / 30%)!important; 
+}
+
+body > section.py-5 > div > div.row.mb-5 > div > span > a > img {
+  transition: transform 0.5s ease-in-out;
+}
+
+body > section.py-5 > div > div.row.mb-5 > div > span > a:hover > img {
+  transform: scale(1.25);
+}
