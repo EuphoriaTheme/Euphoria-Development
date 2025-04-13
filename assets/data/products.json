@@ -4,7 +4,7 @@
         "description": "Our highly Customisable Pterodactyl Panel Theme, also featuring integrated addons to improve your Service!",
         "category": "Theme",
         "image": "assets/img/products/euphoriatheme.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/euphoriatheme",
+        "downloadLink": "https://api.euphoriatheme.uk/download/euphoriatheme",
         "screenshots": [
             "assets/img/products/euphoriatheme1.jpg",
             "assets/img/products/euphoriatheme2.jpg"
@@ -15,7 +15,7 @@
         "description": "Admin Area Pterodactyl Panel Theme, With a refreshing feel, that also lets you choose your primary colour!",
         "category": "Theme",
         "image": "assets/img/products/refresh theme.png",
-        "downloadLink": "https://euphoriadevelopment.uk/download/refresh",
+        "downloadLink": "https://api.euphoriatheme.uk/download/refresh",
         "screenshots": [
             "assets/img/products/refresh1.jpg",
             "assets/img/products/refresh2.jpg"
@@ -26,7 +26,7 @@
         "description": "A Simple Pterodactyl Panel Addon that allows you to set Backgrounds for Containers, Compatible with Nebula!",
         "category": "Addon",
         "image": "assets/img/products/serverbackgrounds.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/server-backgrounds",
+        "downloadLink": "https://api.euphoriatheme.uk/download/server-backgrounds",
         "screenshots": [
             "assets/img/products/serverbackgrounds1.jpg",
             "assets/img/products/serverbackgrounds2.jpg"
@@ -37,7 +37,7 @@
         "description": "An Addon that allows you to view players connected and in some cases perform actions on them!",
         "category": "Addon",
         "image": "assets/img/products/playerlisting.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/player-listing",
+        "downloadLink": "https://api.euphoriatheme.uk/download/player-listing",
         "screenshots": [
             "assets/img/products/playerlisting1.jpg",
             "assets/img/products/playerlisting2.jpg"
@@ -48,7 +48,7 @@
         "description": "Make sharing your Console Logs easier, simply press a button and it's in your Clipboard!",
         "category": "Addon",
         "image": "assets/img/products/consolelogs.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/console-logs",
+        "downloadLink": "https://api.euphoriatheme.uk/download/console-logs",
         "screenshots": [
             "assets/img/products/consolelogs1.jpg",
             "assets/img/products/consolelogs2.jpg"
@@ -59,7 +59,7 @@
         "description": "Skip using the Terminal, view Laravel Logs in your Admin Area to speed up debugging!",
         "category": "Addon",
         "image": "assets/img/products/laravellogs.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/laravel-logs",
+        "downloadLink": "https://api.euphoriatheme.uk/download/laravel-logs",
         "screenshots": [
             "assets/img/products/laravellogs1.jpg",
             "assets/img/products/laravellogs2.jpg"
@@ -70,7 +70,7 @@
         "description": "Simplify Debugging for your Minecraft Server Hosting, Easily view logs and share them using the mclogs api!",
         "category": "Addon",
         "image": "assets/img/products/mclogs1.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/mc-logs",
+        "downloadLink": "https://api.euphoriatheme.uk/download/mc-logs",
         "screenshots": [
             "assets/img/products/mclogs1.jpg",
             "assets/img/products/mclogs2.jpg"
@@ -81,7 +81,7 @@
         "description": "Easily view, manage, and upload images to your Pterodactyl Panel!",
         "category": "Addon",
         "image": "assets/img/products/resource manager banner.png",
-        "downloadLink": "https://euphoriadevelopment.uk/download/resource-manager",
+        "downloadLink": "https://api.euphoriatheme.uk/download/resource-manager",
         "screenshots": [
             "assets/img/products/resource-manager1.jpg",
             "assets/img/products/resource-manager2.jpg"
@@ -92,7 +92,7 @@
         "description": "Multi-language support for Pterodactyl",
         "category": "Addon",
         "image": "assets/img/products/translations banner.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/translations",
+        "downloadLink": "https://api.euphoriatheme.uk/download/translations",
         "screenshots": [
             "assets/img/products/translations1.jpg",
             "assets/img/products/translations2.jpg"
@@ -103,7 +103,7 @@
         "description": "Configure Resource Usage Alerts for your Panel!",
         "category": "Addon",
         "image": "assets/img/products/resourcealerts banner.jpg",
-        "downloadLink": "https://euphoriadevelopment.uk/download/resource-alerts",
+        "downloadLink": "https://api.euphoriatheme.uk/download/resource-alerts",
         "screenshots": [
             "assets/img/products/resourcealerts1.jpg",
             "assets/img/products/resourcealerts2.jpg"
